@@ -42,3 +42,10 @@
 ![19](https://user-images.githubusercontent.com/56523254/116287733-ec96e600-a7ba-11eb-948c-0614ea062181.png)
 
 
+# Menambahkan Style CSS pada validasi form
+# Input
+![20](https://user-images.githubusercontent.com/56523254/116288351-9fffda80-a7bb-11eb-8c45-a2278098c374.png)
+![21](https://user-images.githubusercontent.com/56523254/116288356-a1c99e00-a7bb-11eb-8c46-f043860efa2c.png)
+# Output
+![22](https://user-images.githubusercontent.com/56523254/116288425-b7d75e80-a7bb-11eb-8d0c-abfce858adab.png)
+
