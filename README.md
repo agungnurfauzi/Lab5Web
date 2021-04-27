@@ -27,4 +27,18 @@
 * parseInt di gunakan untuk mengubah String menjadi Integer atau mengubah kebilangan bulat.
 
 
-Cara Membuat Validasi Form
+# Cara Membuat Validasi Form
+
+# Langkah Awal
+# Input
+![16](https://user-images.githubusercontent.com/56523254/116287024-1ac7f600-a7ba-11eb-90f8-2a26d8c8cfe2.png)
+# Output
+![17](https://user-images.githubusercontent.com/56523254/116287157-4814a400-a7ba-11eb-9e7e-8a3f689f6b82.png)
+
+# Membuah Function Validasi
+# Input
+![18](https://user-images.githubusercontent.com/56523254/116287413-932eb700-a7ba-11eb-9673-164b68a39623.png)
+# Output
+![19](https://user-images.githubusercontent.com/56523254/116287733-ec96e600-a7ba-11eb-948c-0614ea062181.png)
+
+
