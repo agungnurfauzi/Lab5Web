@@ -25,3 +25,6 @@
 ![13](https://user-images.githubusercontent.com/56523254/116285240-27e3e580-a7b8-11eb-8c24-159b9af1d394.png)
 * getElementById digunakan untuk mengambil suatu value dari form input yang pastinya dari element HTML.
 * parseInt di gunakan untuk mengubah String menjadi Integer atau mengubah kebilangan bulat.
+
+
+Cara Membuat Validasi Form
